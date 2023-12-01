@@ -29,3 +29,23 @@ public static class Calculator
 
 
 }
+
+
+/* 2 non-static attributes
+* 2 static attributes
+* 2 non-static methods
+* 1 static method
+*
+*
+* id: 1111
+* name: Alice
+* university: Augusta University
+* Number of students: 1
+*
+* id: 1112
+* name: Bob
+* university: Augusta University
+* Number of students: 2
+*
+* It wouldn't work unless you had an instance as a parameter
+*/
